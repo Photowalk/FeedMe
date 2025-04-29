@@ -59,24 +59,9 @@ export const config = {
       category: "产品资讯",
     },
     {
-      name: "LINUX DO 今日热门",
-      url: "https://r4l.deno.dev/https://linux.do/top.rss?period=daily",
-      category: "论坛",
-    },
-    {
-      name: "LINUX DO 近一周热门",
-      url: "https://r4l.deno.dev/https://linux.do/top.rss?period=weekly",
-      category: "论坛",
-    },
-    {
-      name: "LINUX DO 近一月热门",
-      url: "https://r4l.deno.dev/https://linux.do/top.rss?period=monthly",
-      category: "论坛",
-    },
-    {
-      name: "V2EX 今日热门",
-      url: "https://rsshub.rssforever.com/v2ex/topics/hot",
-      category: "论坛",
+      name: "Google Tech News",
+      url: "https://feedfry.com/rss/11f024fd355e7b32980448fe845a53ba"
+      category: "科技资讯"
     },
     {
       name: "Bangumi 近一月热门",
