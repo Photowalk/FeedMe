@@ -60,8 +60,8 @@ export const config = {
     },
     {
       name: "Google Tech News",
-      url: "https://feedfry.com/rss/11f024fd355e7b32980448fe845a53ba"
-      category: "科技资讯"
+      url: "https://feedfry.com/rss/11f024fd355e7b32980448fe845a53ba",
+      category: "科技资讯",
     },
     {
       name: "Bangumi 近一月热门",
